@@ -1,0 +1,5 @@
+pandas
+accelerate
+transformers
+datasets
+torch
